@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Marcel 👋 
 
-<!--
-**RBEGamer/RBEGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I love to design, engineer and build software and hardware
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![company](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![company](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
+[website]: http://marcelochsendorf.com
+[company]: https://prodevmo.com/index
