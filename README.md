@@ -10,7 +10,7 @@
 [![website](./img/globe-dark.svg)](http://marcelochsendorf.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-## BUSINESS WEBSITE
+## BUSINESS WEBSITE (GERMAN)
 [![company](./img/terminal-light.svg)](https://prodevmo.com#gh-light-mode-only)
 [![company](./img/terminal-dark.svg)](https://prodevmo.com/index#gh-dark-mode-only)
 &nbsp;&nbsp;
