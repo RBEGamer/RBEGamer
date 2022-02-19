@@ -16,9 +16,13 @@
 &nbsp;&nbsp;
 
 
-
+## PERSONAL WEBSITE
 [website]: http://marcelochsendorf.com
 
+
+
+## BUSINESS WEBSITE
 [company]: https://prodevmo.com/index
 
+## LINKED-IN
 [IN]: https://www.linkedin.com/in/marcel-ochsendorf-82355aa8/
