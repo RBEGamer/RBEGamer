@@ -6,13 +6,13 @@
 ### Connect with me:
 
 ### PERSONAL WEBSITE
-[![website](./img/globe-light.svg)](http://marcelochsendorf.com#gh-light-mode-only)
+[![website](./img/globe-light.svg)](http://marcelochsendorf.com#gh-light-mode-only) marcelochsendorf.com
 [![website](./img/globe-dark.svg)](http://marcelochsendorf.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## BUSINESS WEBSITE (GERMAN)
-[![company](./img/terminal-light.svg)](https://prodevmo.com#gh-light-mode-only)
-[![company](./img/terminal-dark.svg)](https://prodevmo.com/index#gh-dark-mode-only)
+[![company](./img/terminal-light.svg)](https://prodevmo.com#gh-light-mode-only) prodevmo.com
+[![company](./img/terminal-dark.svg)](https://prodevmo.com/index#gh-dark-mode-only) prodevmo.com
 &nbsp;&nbsp;
 
 ## LINKED-IN
