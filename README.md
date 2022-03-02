@@ -11,8 +11,8 @@
 &nbsp;&nbsp;
 
 ## BUSINESS WEBSITE (GERMAN)
-[prodevmo.com](https://prodevmo.com#gh-light-mode-only)
-[prodevmo.com](https://prodevmo.com/index#gh-dark-mode-only) 
+[![company](./img/globe-light.svg) prodevmo.com](https://prodevmo.com#gh-light-mode-only)
+[![company](./img/globe-dark.svg) prodevmo.com](https://prodevmo.com/index#gh-dark-mode-only) 
 
 &nbsp;&nbsp;
 
