@@ -6,8 +6,8 @@
 ### Connect with me:
 
 ### PERSONAL WEBSITE
-[![website](./img/globe-light.svg)](http://marcelochsendorf.com#gh-light-mode-only) marcelochsendorf.com
-[![website](./img/globe-dark.svg)](http://marcelochsendorf.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg) marcelochsendorf.com](http://marcelochsendorf.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg) marcelochsendorf.com](http://marcelochsendorf.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 ## BUSINESS WEBSITE (GERMAN)
