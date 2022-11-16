@@ -9,11 +9,6 @@
 [![website](./img/globe-light.svg) marcelochsendorf.com](http://marcelochsendorf.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg) marcelochsendorf.com](http://marcelochsendorf.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-
-## BUSINESS WEBSITE (GERMAN)
-[![company](./img/globe-light.svg) prodevmo.com](https://prodevmo.com#gh-light-mode-only)
-[![company](./img/globe-dark.svg) prodevmo.com](https://prodevmo.com/index#gh-dark-mode-only) 
-
 &nbsp;&nbsp;
 
 ## LINKED-IN
