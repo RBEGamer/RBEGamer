@@ -2,7 +2,7 @@
 
 ## I love to design, engineer and build software and hardware!
 
-## AND CLOCKs !
+## AND CLOCKS !
 
 
 ### Connect with me:
