@@ -1,6 +1,8 @@
 # Hi, I'm Marcel 👋 
 
-## I love to design, engineer and build software and hardware
+## I love to design, engineer and build software and hardware!
+
+## AND CLOCKs !
 
 
 ### Connect with me:
